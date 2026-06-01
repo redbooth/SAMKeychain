@@ -6,8 +6,8 @@
 //  Copyright (c) 2013-2014 Sam Soffes. All rights reserved.
 //
 
-#import "SAMKeychainQuery.h"
-#import "SAMKeychain.h"
+#import <SAMKeychain/SAMKeychainQuery.h>
+#import <SAMKeychain/SAMKeychain.h>
 
 @implementation SAMKeychainQuery
 

@@ -6,8 +6,8 @@
 //  Copyright (c) 2010-2014 Sam Soffes. All rights reserved.
 //
 
-#import "SAMKeychain.h"
-#import "SAMKeychainQuery.h"
+#import <SAMKeychain/SAMKeychain.h>
+#import <SAMKeychain/SAMKeychainQuery.h>
 
 NSString *const kSAMKeychainErrorDomain = @"com.samsoffes.samkeychain";
 NSString *const kSAMKeychainAccountKey = @"acct";
